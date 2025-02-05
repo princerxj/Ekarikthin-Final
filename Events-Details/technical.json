@@ -1,0 +1,257 @@
+[
+    {
+      "id" : 1,
+      "title": "Code Raze",
+      "description": "Codathon will feature a series of coding questions for participants to solve, testing their problem-solving abilities and programming skills across different levels of difficulty. Join us to tackle these challenges and enhance your coding expertise!",
+      "imgSrc": "coderaze.jpg",
+      "team": "Solo",
+      "fees": "Free",
+      "prizes": [
+        "1st Place: ₹8,000",
+        "2nd Place: ₹6,000",
+        "3rd Place: ₹4,500"
+      ],
+      "rules": [
+        "Individual Participation: Each participant must compete individually; team submissions are not allowed.",
+        "Time Limit: All projects must be submitted by the specified deadline.",
+        "Judging Criteria: Projects will be evaluated based on functionality, creativity, design, and overall impact.",
+        "Permitted Tools: Participants may use any programming language, framework, or tool of their choice.",
+        "Disqualification: Any form of cheating, plagiarism, or unauthorized collaboration will lead to disqualification."
+      ],
+      "location": "Online",
+      "date": "6 March",
+      "contact": "Arihant Jain : 96643 49680"
+    },
+    {
+      "id" : 2,
+      "title": "Innovathon",
+      "description": "Participate in a dynamic hackathon, where teams create innovative solutions to real-world challenges. Present your projects to a panel of judges, showcase your skills, and compete for top prizes!",
+      "imgSrc": "innovathon.jpg",
+      "team": "Team of 5",
+      "fees": "₹500",
+      "prizes": [
+        "1st Place: ₹8,000",
+        "2nd Place: ₹6,000",
+        "3rd Place: ₹4,000"
+      ],
+      "rules": [
+        "Team Size: Teams can consist of 2-5 participants.",
+        "Original Work: All code and project work must be done during the event.",
+        "Time Limit: All projects must be submitted before the hackathon deadline.",
+        "Permitted Tools : Teams can use any language, frameworks, or tool.",
+        "Project Ownership: Teams retain full ownership of their projects.",
+        "Disqualification: Any form of cheating or plagiarism will result in immediate disqualification.",
+        "Judging Criteria: Projects will be evaluated based on innovation, functionality, design, and impact.",
+        "Submission Requirements: Teams must provide a demo or presentation of their project during the final round.",
+        "External Resources: Open-source libraries and APIs are allowed, but no pre-existing projects can be submitted."
+      ],
+      "location": "Nit nagaland VC hall",
+      "date": "16th March, 12:00 PM - 4:00 PM",
+      "contact": "+91 9876543211 (Jane Smith)"
+    },
+    {
+      "id" : 3,
+      "title": "Integration Bee",
+      "description": "A 24-hour hackathon where participants build innovative projects.",
+      "imgSrc": "integration-bee.jpg",
+      "team": "Team of 2-4",
+      "fees": "₹1,000 per team",
+      "prizes": [
+        "1st Place: ₹50,000",
+        "Runner-up: ₹25,000",
+        "Best UI/UX: ₹10,000"
+      ],
+      "rules": [
+        "Participants can use any programming language.",
+        "Internet access is allowed.",
+        "Projects must be submitted before the deadline."
+      ],
+      "location": "Auditorium, Main Building",
+      "date": "17th March - 18th March, 10:00 AM - 10:00 AM",
+      "contact": "+91 9876543212 (Michael Lee)"
+    },
+    {
+      "id" : 4,
+      "title": "Spell Bee",
+      "description": "Solve clues and find hidden treasures around campus.",
+      "imgSrc": "spell-bee.jpg",
+      "team": "Team of 3",
+      "fees": "₹300 per team",
+      "prizes": [
+        "1st Place: ₹7,000",
+        "2nd Place: ₹3,500"
+      ],
+      "rules": [
+        "No external help is allowed.",
+        "Each team must follow the designated route.",
+        "Use of mobile phones is prohibited."
+      ],
+      "location": "Campus Grounds",
+      "date": "18th March, 2:00 PM - 5:00 PM",
+      "contact": "+91 9876543213 (Sarah Johnson)"
+    },
+    {
+      "id" : 5,
+      "title": "Survive NIT",
+      "description": "Compete in popular games like FIFA, Valorant, and BGMI.",
+      "imgSrc": "survive-nit.jpg",
+      "team": "Solo/Team of 5 (depends on the game)",
+      "fees": "₹250 per person",
+      "prizes": [
+        "1st Place: ₹15,000",
+        "Runner-up: ₹7,500"
+      ],
+      "rules": [
+        "Only registered participants can compete.",
+        "Players must use their own gaming accounts.",
+        "Any form of cheating will lead to disqualification."
+      ],
+      "location": "E-Sports Arena, Block D",
+      "date": "19th March, 3:00 PM - 8:00 PM",
+      "contact": "+91 9876543214 (David Wilson)"
+    },
+    {
+      "id" : 6,
+      "title": "Pitch IT",
+      "description": "Showcase your creativity with paintings and sketches.",
+      "imgSrc": "pitchit.jpg",
+      "team": "Solo",
+      "fees": "₹100",
+      "prizes": [
+        "1st Place: ₹5,000",
+        "2nd Place: ₹2,500",
+        "Best Concept: ₹1,500"
+      ],
+      "rules": [
+        "Participants must bring their own materials.",
+        "Artwork should be completed within 2 hours.",
+        "Themes will be provided on the spot."
+      ],
+      "location": "Art Studio, Block B",
+      "date": "20th March, 11:00 AM - 2:00 PM",
+      "contact": "+91 9876543215 (Emma Davis)"
+    },
+    {
+      "id" : 7,
+      "title": "2D/3D Design",
+      "description": "Capture stunning images based on the given theme.",
+      "imgSrc": "2d-design.jpg",
+      "team": "Solo",
+      "fees": "₹150",
+      "prizes": [
+        "1st Place: ₹8,000",
+        "2nd Place: ₹4,000"
+      ],
+      "rules": [
+        "Only DSLR or mobile cameras are allowed.",
+        "Editing is allowed but must be minimal.",
+        "Each participant can submit up to 3 images."
+      ],
+      "location": "Exhibition Hall, Block A",
+      "date": "21st March, 10:00 AM - 1:00 PM",
+      "contact": "+91 9876543216 (Oliver Brown)"
+    },
+    {
+      "id" : 8,
+      "title": "Robo GP",
+      "description": "Compete with other musicians and showcase your talent.",
+      "imgSrc": "RoboGp.jpg",
+      "team": "Solo/Duo/Band",
+      "fees": "₹300 per participant",
+      "prizes": [
+        "1st Place: ₹12,000",
+        "Best Vocal Performance: ₹5,000"
+      ],
+      "rules": [
+        "Each performance should not exceed 5 minutes.",
+        "Only original compositions or covers allowed.",
+        "No pre-recorded vocals allowed."
+      ],
+      "location": "Open Stage, Cultural Arena",
+      "date": "22nd March, 5:00 PM - 9:00 PM",
+      "contact": "+91 9876543217 (Sophia Martinez)"
+    },
+    {
+      "id" : 9,
+      "title": "Brain Snap",
+      "description": "A battle of words on relevant social and political topics.",
+      "imgSrc": "BrainSnap.jpg",
+      "team": "Team of 2",
+      "fees": "₹250 per team",
+      "prizes": [
+        "1st Place: ₹6,000",
+        "Best Speaker: ₹3,000"
+      ],
+      "rules": [
+        "Each speaker gets 3 minutes to present their argument.",
+        "Use of offensive language will result in disqualification.",
+        "Judges' decision will be final."
+      ],
+      "location": "Seminar Hall, Block E",
+      "date": "23rd March, 10:00 AM - 1:00 PM",
+      "contact": "+91 9876543218 (Ethan White)"
+    },
+    {
+      "id" : 10,
+      "title": "Treasure Hunt",
+      "description": "Present your innovative startup ideas to investors and mentors.",
+      "imgSrc": "TreasureHunt.jpg",
+      "team": "Team of 1-3",
+      "fees": "₹1,500 per team",
+      "prizes": [
+        "1st Place: ₹1,00,000 funding",
+        "Runner-up: ₹50,000 funding",
+        "Best Idea Award: ₹20,000"
+      ],
+      "rules": [
+        "Each team gets 10 minutes to pitch their idea.",
+        "Presentation must include a business model.",
+        "Judges’ decision is final."
+      ],
+      "location": "Conference Hall, Innovation Center",
+      "date": "24th March, 11:00 AM - 3:00 PM",
+      "contact": "+91 9876543219 (Liam Harris)"
+    },
+    {
+      "id" : 11,
+        "title": "Stock Race",
+        "description": "Present your innovative startup ideas to investors and mentors.",
+        "imgSrc": "StockRace.jpg",
+        "team": "Team of 1-3",
+        "fees": "₹1,500 per team",
+        "prizes": [
+          "1st Place: ₹1,00,000 funding",
+          "Runner-up: ₹50,000 funding",
+          "Best Idea Award: ₹20,000"
+        ],
+        "rules": [
+          "Each team gets 10 minutes to pitch their idea.",
+          "Presentation must include a business model.",
+          "Judges’ decision is final."
+        ],
+        "location": "Conference Hall, Innovation Center",
+        "date": "24th March, 11:00 AM - 3:00 PM",
+        "contact": "+91 9876543219 (Liam Harris)"
+    },
+    {
+      "id" : 12,
+        "title": "Circuit X",
+        "description": "Present your innovative startup ideas to investors and mentors.",
+        "imgSrc": "CircuitX.jpg",
+        "team": "Team of 1-3",
+        "fees": "₹1,500 per team",
+        "prizes": [
+          "1st Place: ₹1,00,000 funding",
+          "Runner-up: ₹50,000 funding",
+          "Best Idea Award: ₹20,000"
+        ],
+        "rules": [
+          "Each team gets 10 minutes to pitch their idea.",
+          "Presentation must include a business model.",
+          "Judges’ decision is final."
+        ],
+        "location": "Conference Hall, Innovation Center",
+        "date": "24th March, 11:00 AM - 3:00 PM",
+        "contact": "+91 9876543219 (Liam Harris)"
+    }
+]  

@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>College Fest</title>
+    <link rel="stylesheet" href="CSS/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Anton&family=Bebas+Neue&family=Exo+2&family=Lato&family=Orbitron&family=Oswald&family=Poppins&family=Quicksand&family=Rajdhani&family=Roboto&family=Source+Sans+Pro&family=Merriweather&family=Montserrat&display=swap" rel="stylesheet">
+
+</head>
+<body>
+    <div class="video-container-top">
+        <video autoplay loop muted id="background-video">
+            <source src="Video-Assets/galaxystars.mp4" type="video/mp4">
+        </video>
+    </div>
+    <!-- Navigation Bar -->
+    <header>
+        <div class="exta-header-inner">
+            <img src="Images/exta.png" alt="Logo" class="exta-logo-img">
+        </div>
+        <div class="hamburger">
+            <div class="line"></div>
+            <div class="line"></div>
+            <div class="line"></div>
+        </div>
+        <nav class="nav-bar">
+            <ul>
+                <li><a href="" class="active">Home</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="event.html">Events</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    <div class="video-container-top">
+        <video autoplay loop muted id="background-video-2">
+            <source src="Video-Assets/topvid.mp4" type="video/mp4">
+        </video>
+    </div>
+
+    <div class="content">
+        <h2>NIT Nagaland presents</h2>
+
+        <h1><span class="ekevee">Ekarikthin </span><span class="cross-sym"> X </span><span class="tech-eve">Tech Avinya</span></h1>
+        <p>Experience the most thrilling college fest ever!</p>
+        <a href="event.html" class="btn">Explore</a>
+    </div>
+    
+    <div class="responsive-container">
+        <div class="text-content">
+          <h4 class="short-heading">About</h4>
+          <h1 class="big-heading">Ekarikthin</h1>
+          <p>
+            Ekarikthin is the annual Techno-Cultural Festival of NIT Nagaland, blending 
+            culture and technology through a variety of competitions, showcases, and 
+            exhibitions. The event brings together students, industry leaders, and creatives, 
+            fostering collaboration and innovation. It celebrates passion, creativity, and 
+            community spirit, offering a platform for talent to shine. Ekarikthin is more 
+            than just a festival—it's a vibrant celebration of ideas, diversity, and boundless potential.
+          </p>
+        </div>
+        <div class="image-content">
+          <img src="Images/neon-glass.jpg" alt="Image">
+        </div>
+    </div>
+
+    <div class="tech-avinya-container">
+        <div class="tech-avinya-image">
+            <img src="Images/Time travel.jpg" />
+        </div>
+        <div class="tech-avinya-content">
+            <h1>Tech Avinya</h1>
+            <p>Tech-Avinya - NIT Nagaland's first-ever tech fest, is here to ignite innovation and creativity! A platform for tech enthusiasts to showcase skills, compete in exciting challenges, and explore the latest advancements, Tech-Avinya promises an unforgettable journey of learning and collaboration. Join us for the ultimate celebration of technology and ingenuity!</p>
+            <div class="tech-avinya-buttons">
+                <button class="primary-btn">Unleash Tech</button>
+                <button class="secondary-btn">Events</button>
+            </div>
+        </div>
+    </div>
+
+    <div class="container">
+        <div class="aftermovies">
+            <h2>Aftermovies</h2>
+            <div class="buttons">
+                <button onclick="loadVideo('https://www.youtube.com/embed/T0Hf_Q9SAG8')">2023</button>
+                <button onclick="loadVideo('https://www.youtube.com/embed/T0Hf_Q9SA8')">2020</button>
+                <button onclick="loadVideo('https://www.youtube.com/embed/T0Hf_Q9SAG8')">2019</button>
+            </div>
+            <div class="video-container" id="video-container">
+                <iframe id="video-frame" src="https://www.youtube.com/embed/T0Hf_Q9SAG8" allowfullscreen></iframe>
+            </div>
+        </div>
+        <div class="gallery">
+          <h2>Gallery</h2><br>
+          <div class="gallery-item"><img src="Images/gallery1.jpg"> </div>
+          <div class="gallery-item"><img src="Images/gallery2.jpg"></div>
+          <div class="gallery-item"><img src="Images/gallery3.jpg"></div>
+          <div class="gallery-item"><img src="Images/gallery4.jpg"></div>
+      </div>
+    </div>
+
+    <div class="faq-map-container">
+        <div class="map-container">
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3592.4950395894916!2d93.77144067449515!3d25.787237477335882!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x374607c5cdfdde91%3A0xf69a2518890fea22!2sNational%20Institute%20of%20Technology%20Nagaland!5e0!3m2!1sen!2sin!4v1731849796552!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+        </div>
+        
+        <div class="faq-container">
+            <h1>FAQs</h1>
+            <div class="faq">
+                <div class="faq-question" onclick="toggleFAQ(this)">
+                    <h2>What is Ekarikthin?</h2>
+                    <span class="icon">+</span>
+                </div>
+                <div class="faq-answer">
+                    <p>Ekarikthin is the technocultural fest of NIT Nagaland, blending technology, culture, and creativity into a vibrant celebration that highlights the institute's dynamic spirit and Nagaland's rich heritage</p>
+                </div>
+            </div>
+            <div class="faq">
+                <div class="faq-question" onclick="toggleFAQ(this)">
+                    <h2>What is Tech Avinya?</h2>
+                    <span class="icon">+</span>
+                </div>
+                <div class="faq-answer">
+                    <p>Tech-Avinya is NIT Nagaland's inaugural tech fest, offering a platform for innovation, skill development, and collaboration through cutting-edge events and competitions.</p>
+                </div>
+            </div>
+            <div class="faq">
+                <div class="faq-question" onclick="toggleFAQ(this)">
+                    <h2>What are the Dates of the events?</h2>
+                    <span class="icon">+</span>
+                </div>
+                <div class="faq-answer">
+                    <p>Will be updated soon</p>
+                </div>
+            </div>
+            <div class="faq">
+                <div class="faq-question" onclick="toggleFAQ(this)">
+                    <h2>How can i participate in the events?</h2>
+                    <span class="icon">+</span>
+                </div>
+                <div class="faq-answer">
+                    <p>Explore the various events and register for the same on the website</p>
+                </div>
+            </div>
+            <div class="faq">
+                <div class="faq-question" onclick="toggleFAQ(this)">
+                    <h2>Is there any entry fee for the event?</h2>
+                    <span class="icon">+</span>
+                </div>
+                <div class="faq-answer">
+                    <p>Yes, there is entry fee to participate in events . But Students of NIT Nagaland can participate for free</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <footer>
+        <div class="footer_info">
+            <div class="footer_width about">
+                <h2>About</h2>
+                <p>
+                    Ekarikthin joins hands with Tech-Avinya to create a unique fusion of culture 
+                    and technology at NIT Nagaland. Blending vibrant traditions with cutting-edge 
+                    tech events, the fest offers thrilling competitions, workshops, and performances, 
+                    celebrating creativity, innovation, and heritage in one dynamic platform. It's an 
+                    unmissable opportunity to learn, collaborate, and be inspired!
+                </p>
+                <div class="social-media">
+                    <ul>
+                        <li><a href="https://www.instagram.com/ekarikthin_/?hl=en"><i class="fa-brands fa-instagram"></i></a></li>
+                        <li><a href="https://www.facebook.com/Ekarikthin/"><i class="fa-brands fa-facebook"></i></a></li>
+                        <li><a href="https://youtube.com/@ekarikthin?si=BwS0mNlSoI-RmnF8"><i class="fa-brands fa-youtube"></i></a></li>
+                        <li><a href="https://www.linkedin.com/school/national-institute-of-technology-nagaland/posts/?feedView=all"><i class="fa-brands fa-linkedin"></i></a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="footer_width link">
+                <h2>Quick Links</h2>
+                <ul>
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="about.html">About</a></li>
+                    <li><a href="event.html">Events</a></li>
+                    <li><a href="contact.html">Reach us</a></li>
+                </ul>
+            </div>
+            <div class="footer_width footer-contact">
+                <h2>Contact</h2>
+                <ul>
+                    <li>
+                        <span><i class="fas fa-map-marker-alt"></i></span>
+                        <a>QQRF+66, Chümoukedima, Dimapur, Nagaland 797103</a>
+                    </li>
+                    <li>
+                        <span><i class="far fa-envelope"></i></span>
+                        <a>techavinya3@gmail.com</a>
+                    </li>
+                    <li>
+                        <span><i class="fas fa-phone-volume"></i></span>
+                        <a>7020464564</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </footer>
+    <div class="developedby">
+        <p>Website Designed by <a href="https://linkedin.com/in/prince-raj-209b40280">@PrinceRaj</a> </p>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
