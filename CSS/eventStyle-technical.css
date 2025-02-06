@@ -89,7 +89,7 @@ header {
     text-align: center;
     margin-top: 20px;
     margin-bottom: 20px;
-    font-family: sans-serif;
+    font-family: Poppins;
     color: #ffffff;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3), -2px -2px 4px rgba(0, 0, 0, 0.2);
     transition: text-shadow 0.3s ease, transform 0.3s ease;
