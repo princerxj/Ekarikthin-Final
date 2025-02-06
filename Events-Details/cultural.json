@@ -1,0 +1,29 @@
+[
+    {
+      "id" : 1,
+      "title": "Ritzy",
+      "description": "Mr. & Mrs. Ekarikthin is the ultimate personality contest of Ekarikthin, where confidence, charisma, and talent take center stage! Participants will compete in multiple rounds, showcasing their intelligence, creativity, and stage presence to claim the prestigious titles. Are you ready to own the spotlight?",
+      "imgSrc": "ritzy.jpg",
+      "team": "Duo",
+      "fees": "Rs. 800",
+      "prizes": [
+        "1st Place: ₹8,000",
+        "2nd Place: ₹6,000",
+        "3rd Place: ₹4,500"
+      ],
+      "rules": [
+        "Participants must be 18-26 years old.",
+        "For boys, minimum height is 5'6 and 5'3 for girls respectively.",
+        "Minimum height of heels(girls) is 3.5 inches.",
+        "Registration has to be done on the official website beforehand",
+        "Registration fees is to be paid online prior to the event.",
+        "A separate whatsapp group will be created for the participants where further information will be passes.",
+        "There will be three rounds : Ethnic Round, Designer Round and Formal Round. Out of which, only the attires for the designer round will be provided to the contestants.",
+        "The winner and runner up will get direct entry to Mr and Mrs Chumukedima"
+      ],
+      "location": "NIT Nagaland",
+      "date": "7 March",
+      "contact": ["7005677566",
+        "6009694737"]
+    }
+]
