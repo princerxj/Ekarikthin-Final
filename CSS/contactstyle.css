@@ -161,6 +161,14 @@ header {
     background-image: url('../Images/SUJIT.JPG');
 }
 
+.dimple-img {
+    background-image: url('../Images/Dimple.jpg');
+}
+
+.rishi-img {
+    background-image: url('../Images/Rishi.jpg');
+}
+
 
 .card:hover .img-bx {
     top: -35px;
@@ -302,6 +310,7 @@ header {
         padding: 10px;
     }
 }
+
 
 footer .footer_width h2 {
     font-family: 'Roboto', sans-serif;
