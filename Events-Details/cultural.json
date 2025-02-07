@@ -24,7 +24,8 @@
     "location": "NIT Nagaland",
     "date": "7 March",
     "contact": ["7005677566",
-      "6009694737"]
+      "6009694737"],
+      "formlink" : ""
   },
   {
     "id" : 2,
@@ -51,7 +52,8 @@
     ],
     "location": "NIT Nagaland",
     "date": "8 March",
-    "contact": ["6009825815"]
+    "contact": ["6009825815"],
+    "formlink" : "https://docs.google.com/forms/d/e/1FAIpQLSdGV8e5iE5EE6F8HdqtJBikJA6kWTpDOpBQ3SG1rfVEGJffGA/viewform?usp=header"
   },
   {
     "id" : 3,
@@ -78,7 +80,8 @@
     "location": "NIT Nagaland",
     "date": "7 March",
     "contact": ["8794790320",
-  "8639575106"]
+  "8639575106"],
+  "formlink" : ""
   },
   {
     "id" : 4,
@@ -109,7 +112,8 @@
     "location": "NIT Nagaland",
     "date": "8 March",
     "contact": ["7630913410",
-  "8798063886"]
+  "8798063886"],
+  "formlink" : ""
   },
   {
     "id" : 5,
@@ -156,6 +160,7 @@
     "location": "NIT Nagaland",
     "date": "8 March",
     "contact": ["9863119295",
-  "6301572255"]
+  "6301572255"],
+  "formlink" : ""
   }
 ]

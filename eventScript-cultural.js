@@ -39,7 +39,7 @@ function openPopup(eventId) {
       const popupDate = document.getElementById("popup-date");
       const popupContact = document.getElementById("popup-contact");
       const popupImg = document.getElementById("popup-img");
-
+      const btn = document.getElementById("Register-btn");
       popupTitle.textContent = event.title;
       popupDescription.textContent = event.description;
       popupTeam.textContent = event.team;
@@ -48,11 +48,14 @@ function openPopup(eventId) {
       popupPrizes.innerHTML = event.prizes.map(prize => `<li>${prize}</li>`).join('');
 
       popupRules.innerHTML = event.rules.map(rule => `<li>${rule}</li>`).join('');
-      
+
       popupLocation.textContent = event.location;
       popupDate.textContent = event.date;
       popupContact.textContent = event.contact;
       popupImg.src = `Images/${event.imgSrc}`;
+      btn.addEventListener("click", () => {
+        window.open(`${event.formlink}`);
+      });
       
       popupOverlay.style.display = "flex";
     })
