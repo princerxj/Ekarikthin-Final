@@ -1,29 +1,161 @@
 [
-    {
-      "id" : 1,
-      "title": "Ritzy",
-      "description": "Mr. & Mrs. Ekarikthin is the ultimate personality contest of Ekarikthin, where confidence, charisma, and talent take center stage! Participants will compete in multiple rounds, showcasing their intelligence, creativity, and stage presence to claim the prestigious titles. Are you ready to own the spotlight?",
-      "imgSrc": "ritzy.jpg",
-      "team": "Duo",
-      "fees": "Rs. 800",
-      "prizes": [
-        "1st Place: ₹8,000",
-        "2nd Place: ₹6,000",
-        "3rd Place: ₹4,500"
-      ],
-      "rules": [
-        "Participants must be 18-26 years old.",
-        "For boys, minimum height is 5'6 and 5'3 for girls respectively.",
-        "Minimum height of heels(girls) is 3.5 inches.",
-        "Registration has to be done on the official website beforehand",
-        "Registration fees is to be paid online prior to the event.",
-        "A separate whatsapp group will be created for the participants where further information will be passes.",
-        "There will be three rounds : Ethnic Round, Designer Round and Formal Round. Out of which, only the attires for the designer round will be provided to the contestants.",
-        "The winner and runner up will get direct entry to Mr and Mrs Chumukedima"
-      ],
-      "location": "NIT Nagaland",
-      "date": "7 March",
-      "contact": ["7005677566",
-        "6009694737"]
-    }
+  {
+    "id" : 1,
+    "title": "Ritzy",
+    "description": "Mr. & Mrs. Ekarikthin is the ultimate personality contest of Ekarikthin, where confidence, charisma, and talent take center stage! Participants will compete in multiple rounds, showcasing their intelligence, creativity, and stage presence to claim the prestigious titles. Are you ready to own the spotlight?",
+    "imgSrc": "ritzy.jpg",
+    "team": "Duo",
+    "fees": "Rs. 800",
+    "prizes": [
+      "1st Place: ₹8,000",
+      "2nd Place: ₹6,000",
+      "3rd Place: ₹4,500"
+    ],
+    "rules": [
+      "Participants must be 18-26 years old.",
+      "For boys, minimum height is 5'6 and 5'3 for girls respectively.",
+      "Minimum height of heels(girls) is 3.5 inches.",
+      "Registration has to be done on the official website beforehand",
+      "Registration fees is to be paid online prior to the event.",
+      "A separate whatsapp group will be created for the participants where further information will be passes.",
+      "There will be three rounds : Ethnic Round, Designer Round and Formal Round. Out of which, only the attires for the designer round will be provided to the contestants.",
+      "The winner and runner up will get direct entry to Mr and Mrs Chumukedima"
+    ],
+    "location": "NIT Nagaland",
+    "date": "7 March",
+    "contact": ["7005677566",
+      "6009694737"]
+  },
+  {
+    "id" : 2,
+    "title": "Rockville",
+    "description": "The Ekarikthin Battle of the Bands a.k.a ROCKVILLE, is an annual music event hosted by NIT Nagaland, showcasing the region’s vibrant music scene. The competition features various rock bands competing against each other, with participants battling it out in a high-energy, electrifying environment. It serves as a platform for local and regional musicians to showcase their talent, connect with other artists, and gain exposure. The event is a significant part of the institute’s cultural calendar, drawing large crowds and fostering a community spirit among music lovers.",
+    "imgSrc": "rock.jpg",
+    "team": "Band",
+    "fees": "Rs. 2500",
+    "prizes": [
+      "1st Place: ₹40,000",
+      "2nd Place: ₹20,000"
+    ],
+    "rules": [
+      "1. All participants are required to pay a registration fee of Rs. 2500/- in order to participate in the contest.",
+      "2. Bands must report to the venue by 2:00 PM on the scheduled date, i.e., 8th March. The event will begin promptly at 5:30pm. Any band not present at their designated time will be disqualified, and no refunds will be provided.",
+      "3. Participants are requested to bring their own instruments. A drum kit will be provided on-site.",
+      "4. The competition welcomes all genres of music, and participants are free to showcase any form of musical expression.",
+      "5. The event is open to individuals of all ages, with no age restrictions.",
+      "6. Sound check for all the bands will be held between 3:30-5:30pm. Each bands will be allotted 7 minutes for the sound check.",
+      "7. The competition will consist of a single round. Each band will be allotted 10 minutes for the performance. Bands may perform one or two songs, which may be original or covers. Any bands exceeding the allotted time will incur a deduction in points.",
+      "8. Any offensive or abusive behavior during the event will result in immediate disqualification.",
+      "9. The contest will be judged by a panel of experts, and their decisions will be final and binding.",
+      "10. In the event of any disputes or misunderstandings, the decision of the event organizers will be deemed final."
+    ],
+    "location": "NIT Nagaland",
+    "date": "8 March",
+    "contact": ["6009825815"]
+  },
+  {
+    "id" : 3,
+    "title": "Voice of Ekarikthin",
+    "description": " Ekarikthin’s flagship solo singing competition celebrates the universal language of music. Voice of Ekarikthin 2025 invites vocalists to step into the spotlight and captivate audiences with their melodies. From classical to contemporary, every genre finds a home here. This year’s event is poised to connect hearts and cultures, leaving a lasting impact through music’s transformative power.",
+    "imgSrc": "voice.jpg",
+    "team": "Solo",
+    "fees": "Rs. 600",
+    "prizes": [
+      "1st Place: ₹13,000",
+      "2nd Place: ₹7,000"
+    ],
+    "rules": [
+    "1.The registration fee for each participant is ₹600.",
+    "2.Contestants may choose a song from any genre.",
+    "3.The maximum duration of the song should be 3 minutes. Points will be deducted if the given time is exceeded.", 
+    "4.The song track must be submitted at least three days prior to the competition.",
+    "5.Participants who wish to use an instrument must bring their own.",
+    "6.Only solo performances are allowed.",
+    "7.A preliminary audition/selection process will be conducted before participants perform on stage.",
+    "8.Artists must arrive at the venue at least two hours before the event begins.",
+    "9.Judging criteria will include vocals, song selection, stage presence, and song difficulty."
+    ],
+    "location": "NIT Nagaland",
+    "date": "7 March",
+    "contact": ["8794790320",
+  "8639575106"]
+  },
+  {
+    "id" : 4,
+    "title": "Haru no Cosplay",
+    "description": " ",
+    "imgSrc": "cosplay.jpg",
+    "team": "Solo, Duo, Group",
+    "fees": "a) Solo₹500 b) Duo ₹800 c) Group-₹1000",
+    "prizes": [
+      "1st Place: ₹20,000",
+      "2nd Place: ₹10,000",
+      "+Gifts"
+    ],
+    "rules": [
+      "Rules and regulation",
+      "1. Registration fee:",
+      "a) Solo₹500",
+      "b) Duo ₹800",
+      "c) Group-₹1000",
+      "2. Original characters will not be qualified for the cosplay competition.",
+      "3. Realistic props such as firearms, real katanas, props with sharp, etc. are prohibited for safety.",
+      "4. Participants once registered cannot avail any refund for any payment.",
+      "5. Participants are required to provide an active email ID for updates regarding the event.",
+      "6. Cosplayers are requested to provide soundtrack/background videos files 5 days prior to the event day through the provided mobile number.",
+      "7. Each participant will have 3 minutes to showcase their performance.",
+      "8. Participants must report to the venue by 12pm on the schedule date i.e 8th. March. The event will begin at 1:30pm. Any participants not present at the designated time will be disqualified."
+    ],
+    "location": "NIT Nagaland",
+    "date": "8 March",
+    "contact": ["7630913410",
+  "8798063886"]
+  },
+  {
+    "id" : 5,
+    "title": "Feet On Fire",
+    "description": "Feet on Fire is a high-energy dance competition held as part of Ekarikthin, the annual cultural fest of NIT Nagaland. Scheduled for March 8, 2025, the event showcases electrifying performances by talented dancers competing for the top spot. It brings together participants from various institutions, celebrating creativity, rhythm, and passion for dance.",
+    "imgSrc": "feet.jpg",
+    "team": "Solo, Group",
+    "fees": "a) Solo-₹500  b) Group-₹1000",
+    "prizes": [
+      "Group-",
+      "1st Place: ₹14,000",
+      "2nd Place: ₹8,000",
+      "Solo-",
+      "1st Place: ₹8,000",
+      "2nd Place: ₹5,000"  
+    ],
+    "rules": [
+    "1.Eligibility- Open to all.",
+      "Categories: Solo (1 performer) & Group (2-10 performers).",
+    "2.Participants must report by 9 AM.",
+    "3.Registration-",
+    "Must be completed before the deadline.",
+    "Fees (if any) are non-refundable.",
+    "4.Performance Duration-",
+    "Solo: Up to 3 minutes (exceeding will result in a mark deduction).",
+    "Group: Up to 5 minutes (exceeding will result in a mark deduction).",
+    "5.Music Submission-",
+    "P3 file named as Your TeamName.mp3 or SoloName.mp3.",
+    "Upload on the website or send via WhatsApp (9863119295).",
+    "6.Rules-",
+    "No fire, water, or dangerous props.",
+    "No music changes after submission.",
+    "7.Judging-",
+    "Decisions are final and binding.",
+    "8.Code of Conduct-",
+    "Respect judges, organizers & participants",
+    "Misconduct leads to disqualification.",
+    "9.Prizes-",
+    "Certificates & cash prizes for winners.",
+    "Details announced at the event.",
+    "10.Miscellaneous-",
+    "Event schedule will be shared in advance."
+    ],
+    "location": "NIT Nagaland",
+    "date": "8 March",
+    "contact": ["9863119295",
+  "6301572255"]
+  }
 ]
