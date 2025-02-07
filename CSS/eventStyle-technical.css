@@ -249,7 +249,7 @@ header {
     font-family: Poppins;
 }
 
-.popFees {
+.popFees, .Note-pop {
     background : linear-gradient(45deg, #0077ff, #8000ff);
     font-size: 25px;
     font-weight: 500;
