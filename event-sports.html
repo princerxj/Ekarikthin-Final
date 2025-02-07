@@ -39,118 +39,40 @@
     <!-- Main Page -->
     <h1 class="main_event_heading">Sports Events</h1>
 
-    <div class="card-container">
-        <div class="card">
-            <h2 class="card-title">Event 1</h2>
-            <div class="image-container">
-                <img src="Images/comingsoon.jpg" alt="Sample Image">
-            </div>
-            <button class="view-more-btn" onclick="openPopup(1)">View More</button>
-        </div>
-        <div class="card">
-            <h2 class="card-title">Event 2</h2>
-            <div class="image-container">
-                <img src="Images/comingsoon.jpg" alt="Sample Image">
-            </div>
-            <button class="view-more-btn" onclick="openPopup(2)">View More</button>
-        </div>
-        <div class="card">
-            <h2 class="card-title">Event 3</h2>
-            <div class="image-container">
-                <img src="Images/comingsoon.jpg" alt="Sample Image">
-            </div>
-            <button class="view-more-btn" onclick="openPopup(3)">View More</button>
-        </div>
-        <div class="card">
-            <h2 class="card-title">Event 4</h2>
-            <div class="image-container">
-                <img src="Images/comingsoon.jpg" alt="Sample Image">
-            </div>
-            <button class="view-more-btn" onclick="openPopup(4)">View More</button>
-        </div>
-        <div class="card">
-          <h2 class="card-title">Event 5</h2>
-          <div class="image-container">
-              <img src="Images/comingsoon.jpg" alt="Sample Image">
-          </div>
-          <button class="view-more-btn" onclick="openPopup(5)">View More</button>
-      </div>
-      <div class="card">
-        <h2 class="card-title">Event 6</h2>
-        <div class="image-container">
-            <img src="Images/comingsoon.jpg" alt="Sample Image">
-        </div>
-        <button class="view-more-btn" onclick="openPopup(6)">View More</button>
-    </div>
-    <div class="card">
-      <h2 class="card-title">Event 7</h2>
-      <div class="image-container">
-          <img src="Images/comingsoon.jpg" alt="Sample Image">
-      </div>
-      <button class="view-more-btn" onclick="openPopup(7)">View More</button>
-  </div>
-  <div class="card">
-    <h2 class="card-title">Event 8</h2>
-    <div class="image-container">
-        <img src="Images/comingsoon.jpg" alt="Sample Image">
-    </div>
-    <button class="view-more-btn" onclick="openPopup(9)">View More</button>
-</div>
+    <div class="card-container" id="card-container">
 
-<div class="card">
-    <h2 class="card-title">Event 9</h2>
-    <div class="image-container">
-        <img src="Images/comingsoon.jpg" alt="Sample Image">
     </div>
-    <button class="view-more-btn" onclick="openPopup(9)">View More</button>
-</div>
-<div class="card">
-    <h2 class="card-title">Event 10</h2>
-    <div class="image-container">
-        <img src="Images/comingsoon.jpg" alt="Sample Image">
-    </div>
-    <button class="view-more-btn" onclick="openPopup(10)">View More</button>
-</div>
-<div class="card">
-    <h2 class="card-title">Event 11</h2>
-    <div class="image-container">
-        <img src="Images/comingsoon.jpg" alt="Sample Image">
-    </div>
-    <button class="view-more-btn" onclick="openPopup(11)">View More</button>
-</div>
-<div class="card">
-    <h2 class="card-title">Event 12</h2>
-    <div class="image-container">
-        <img src="Images/comingsoon.jpg" alt="Sample Image">
-    </div>
-    <button class="view-more-btn" onclick="openPopup(12)">View More</button>
-</div>
-<div class="card">
-    <h2 class="card-title">Event 13</h2>
-    <div class="image-container">
-        <img src="Images/comingsoon.jpg" alt="Sample Image">
-    </div>
-    <button class="view-more-btn" onclick="openPopup(13)">View More</button>
-</div>
-<div class="card">
-    <h2 class="card-title">Event 14</h2>
-    <div class="image-container">
-        <img src="Images/comingsoon.jpg" alt="Sample Image">
-    </div>
-    <button class="view-more-btn" onclick="openPopup(14)">View More</button>
-</div>
-    </div>
-
     <div class="popup-overlay" id="popupOverlay">
         <div id="popup" class="popup">
             <button class="close-btn" onclick="closePopup()">&times;</button>
             <div class="popup-content">
-                <img src="Images/comingsoon.jpg" alt="Popup Image" class="popup-img">
+                <img src="Images/comingsoon.jpg" alt="Popup Image" class="popup-img" id="popup-img">
                 <div class="popup-text">
-                    <h3 id="popup-title">Popup Title</h3>
-                    <p id="popup-description">
-                        This is the description of the selected event. More details about the event will be updated here.
-                    </p>
+                    <h2 id="popup-title">Popup Title</h3>
+                    <p class="popDesc">Description</p>
+                    <p id="popup-description">Description will be displayed here.</p>
+                    <p class="popTeam">Team</p>
+                    <p><span id="popup-team">Team Name</span></p>
+                    <p class="popFees">Fees</p>
+                    <p><span id="popup-fees">Event Fees</span></p></p>
+                    <div>
+                        <p class="popPrizes">Prizes</p>
+                        <ul id="popup-prizes">
+                        </ul>
+                    </div>
+                    <br>
+                    <div>
+                        <p class="popRules">Rules & Regulations:</p>
+                        <ul id="popup-rules">
+                        </ul><br>
+                    </div>
+                    <p class="popLoc">Location:</p>
+                    <p id="popup-location">Event Location</p>
+                    <p class="popDate">Date:</p>
+                    <p id="popup-date">Event Date</p>
+                    <p class="popContact">Contact:</p>
+                    <p id="popup-contact">Contact Info</p>
+                    <button class="Register-btn" id="Register-btn">Register</button>
                 </div>
             </div>
         </div>

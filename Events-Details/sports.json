@@ -1,0 +1,48 @@
+[
+    {
+      "id" : 1,
+      "title": "BGMI",
+      "description": "Get ready to drop in, loot up, and fight your way to victory in the ultimate BGMI tournament! Compete against skilled squads in intense battles, showcase your strategic gameplay, and prove your dominance on the battleground. With thrilling action, high stakes, and epic rewards, only the best will emerge victorious. Do you have what it takes to be the last one standing? 🏆💥",
+      "imgSrc": "BGMI.jpg",
+      "team": "Squad/Solo",
+      "fees": "Rs.600",
+      "prizes": [
+        "1st Place: ₹13,000",
+        "2nd Place: ₹7,000"
+      ],
+      "rules": [
+        "If any participants gets using game bugs or hacks , the whole team will be disqualified.",
+        "Every custom lobby will be hosted by the tournament officials.",
+        "Every team should join the lobby with the registered players only.",
+        "All the team should be there within 5 minutes after getting the custom id and password.",
+        "If any team failed to join in the custom lobby on time then the team will face disqualification. We are not responsible if you failed to join the custom rooms or get late.",
+        "No PC players are allowed.",
+        "Trash talks will not be tolerated or else that specific team will be disqualified.",
+        "Players are expected to conduct themselves and compete with the spirit of sportsmanship , maintaining a friendly and polite behaviour in activities involving other participants and public in general."
+      ],
+      "location": "NIT Nagaland",
+      "date": "7 March",
+      "contact": ["9392875388",
+        "9362723951"],
+        "formlink" : ""
+    },
+    {
+        "id" : 2,
+        "title": "Penalty Shootout",
+        "description": "Step up to the spot and take your shot in the ultimate penalty shootout challenge! Precision, power, and nerves of steel will decide who claims victory. Whether you're a sharpshooter or a fearless goalkeeper, every kick counts. Compete, score, and lead your team to glory! 🏆🥅",
+        "imgSrc": "Penalty.jpg",
+        "team": "Solo",
+        "fees": "Will be updated",
+        "prizes": [
+          "Will be updated"
+        ],
+        "rules": [
+          "Will be updated"
+        ],
+        "location": "NIT Nagaland",
+        "date": "Will be updated",
+        "contact": ["Will be updated",
+          "Will be updated"],
+          "formlink" : ""
+      }
+]
