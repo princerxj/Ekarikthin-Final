@@ -169,6 +169,14 @@ header {
     background-image: url('../Images/Rishi.jpg');
 }
 
+.vitosu-img {
+    background-image: url('../Images/vitosu.jpg');
+}
+
+.raja-img {
+    background-image: url('../Images/raza.jpg');
+}
+
 
 .card:hover .img-bx {
     top: -35px;

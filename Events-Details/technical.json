@@ -5,11 +5,11 @@
       "description": "Codathon will feature a series of coding questions for participants to solve, testing their problem-solving abilities and programming skills across different levels of difficulty. Join us to tackle these challenges and enhance your coding expertise!",
       "imgSrc": "coderaze.jpg",
       "team": "Solo",
-      "fees": "Free",
+      "fees": "500",
       "prizes": [
-        "1st Place: ₹8,000",
-        "2nd Place: ₹6,000",
-        "3rd Place: ₹4,500"
+        "1st Place: ₹17,000",
+        "2nd Place: ₹10,000",
+        "3rd Place: ₹5,000"
       ],
       "rules": [
         "Individual Participation: Each participant must compete individually; team submissions are not allowed.",
@@ -29,16 +29,14 @@
       "title": "Innovathon",
       "description": "Participate in a dynamic hackathon, where teams create innovative solutions to real-world challenges. Present your projects to a panel of judges, showcase your skills, and compete for top prizes!",
       "imgSrc": "innovathon.jpg",
-      "team": "Team of 5",
+      "team": "Solo",
       "fees": "₹400",
       "prizes": [
         "1st Place: ₹8,000",
-        "2nd Place: ₹6,000",
-        "3rd Place: ₹4,000"
+        "2nd Place: ₹4,000",
+        "3rd Place: ₹2,000"
       ],
       "rules": [
-        "Team Size: Teams can consist of 2-5 participants.",
-        "Original Work: All code and project work must be done during the event.",
         "Time Limit: All projects must be submitted before the hackathon deadline.",
         "Permitted Tools : Teams can use any language, frameworks, or tool.",
         "Project Ownership: Teams retain full ownership of their projects.",
@@ -56,52 +54,63 @@
     {
       "id" : 3,
       "title": "Integration Bee",
-      "description": "Will be updated sonn",
+      "description": "The Ultimate Math Battle! A high-speed calculus competition testing integration skills under pressure.",
       "imgSrc": "integration-bee.jpg",
       "team": "Solo",
       "fees": "₹200",
       "prizes": [
-        "1st Place: ₹-----",
-        "Runner-up: ₹-----",
-        "Best UI/UX: ₹------"
+        "1st Place: ₹3000",
+        "Runner-up: ₹2000"
       ],
       "rules": [
-        "Will be updated soon"
+        "The competition is open to all.",
+        "The competition will have a maximum of 2 rounds based on the number of students registered.",
+        "Participants will be given a set of definite and indefinite integration problems to solve within a specified time.",
+        "Points will be awarded based on accuracy and speed of solving integrals. Partial credit may be given for correct steps.",
+        "No calculators, mobile phones, or reference materials are allowed. Only pens, pencils, and provided answer sheets can be used.",
+        "In case of a tie, additional integrals will be given to determine the winner.",
+        "Any form of cheating, misconduct, or violation of rules will result in immediate disqualification.",
+        "Participants from outside NIT Nagaland must register with an entry fee of ₹200."
       ],
       "location": "NIT Nagaland",
       "date": "6 March",
-      "contact": "Will be updated soon",
+      "contact": ["Raghavendra - 9989893127", "Likivi Zhimo - 9366713997"],
       "formlink" : "https://docs.google.com/forms/d/e/1FAIpQLSf5C4Q5N358eQinm7kWzBN_oJz63a84J1wELIHMjT2T5s-6Pw/viewform?usp=header"
     },
     {
       "id" : 4,
       "title": "Spell Bee",
-      "description": "Will be updated soon",
+      "description": "The Spell Bee competition tests participants' spelling skills and vocabulary. Each contestant will spell words aloud, with eliminations for incorrect spellings. Participants may ask for the word’s definition or a sentence example before spelling. The last speller standing wins!",
       "imgSrc": "spell-bee.jpg",
       "team": "Solo",
       "fees": "₹200",
       "prizes": [
-        "1st Place: ₹-----",
-        "2nd Place: ₹------"
+        "1st Place: ₹3000",
+        "2nd Place: ₹2000"
       ],
       "rules": [
-        "Will be updated soon"
-      ],
+        "1. Each participant gets one word per turn and must spell it aloud, letter by letter.",
+        "2. Participants may ask for the word’s definition or usage in a sentence before spelling.",
+        "3. No restarting or changing letters once spelling has begun.",
+        "4. Incorrect spelling results in elimination, and the last participant remaining wins." ,
+        "5. No external help is allowed, and the judges’ decision is final.",
+        "6. Other rules and updates will be shared in the WhatsApp group."
+  ],
       "location": "NIT Nagaland",
       "date": "6 March",
-      "contact": "Will be updated soon",
+      "contact": ["Sujit Sakore : 7020464564","Durgesh Sharma : 8414957832"],
       "formlink" : "https://docs.google.com/forms/d/e/1FAIpQLSe0CS0Kzql7rR8Xx47MNHjjYLftzRheWs-mKPXUNpB6RPjGRw/viewform?usp=header"
     },
     {
       "id" : 5,
       "title": "Survive NIT",
-      "description": "Details will be shared soon",
+      "description": "Adapt, Solve, Conquer! A problem-solving challenge that pushes participants to think critically and tackle real world scenarios",
       "imgSrc": "survive-nit.jpg",
       "team": "Solo",
       "fees": "₹200",
       "prizes": [
-        "1st Place: ₹-----",
-        "Runner-up: ₹-----"
+        "1st Place: ₹3000",
+        "Runner-up: ₹2000"
       ],
       "rules": [
         "1. Round 1: Form Filling Participants will fill out a form with personal and general questions about themselves. This round includes eliminations.",
@@ -113,27 +122,32 @@
       ],
       "location": "NIT Nagaland",
       "date": "6 March",
-      "contact": "Will be updated soon",
+      "contact": ["Ajay Kumar Ray : 7439401689", "Mongalsing Hanse : 6003327296"],
       "formlink" : "https://docs.google.com/forms/d/e/1FAIpQLSe-Dt_-Id36bd43RpdznP0u_O5AwiDANXImlUIy-huYHOqjSQ/viewform?usp=header"
     },
     {
       "id" : 6,
       "title": "Pitch IT",
-      "description": "Will be updated sonn",
+      "description": "Pitch It is the ultimate test of creativity, persuasion, and innovation! 💡🔥 Participants will have a limited time to present their groundbreaking ideas, business plans, or product concepts to a panel of judges. Whether it's a startup pitch, a social initiative, or a revolutionary tech solution, your ability to sell your idea with clarity and confidence will determine your success. Are you ready to impress and make your pitch stand out? 🚀",
       "imgSrc": "pitchit.jpg",
-      "team": "Will be updated soon",
+      "team": "Solo",
       "fees": "₹200",
       "prizes": [
-        "1st Place: ₹------",
-        "2nd Place: ₹-----",
-        "3rd Place: ₹------"
+        "1st Place: ₹4000",
+        "2nd Place: ₹2500",
+        "3rd Place: ₹1500"
       ],
       "rules": [
-        "Will be updated soon"
+        "Each participant will have a fixed time to present their pitch. Exceeding the time may result in penalties.",
+        "The idea must be unique, innovative, and presented clearly.",
+        "Participants must pitch confidently without reading from notes or slides.",
+        "Evaluation will be based on creativity, feasibility, clarity, and presentation skills.",
+        "No offensive content or plagiarism is allowed. Judges’ decisions are final.",
+        "Additional rules and updates will be shared in the WhatsApp group."
       ],
       "location": "NIT Nagaland",
       "date": "8 March",
-      "contact": "Will be updated soon",
+      "contact": ["PRADYUMN (7390987633)", "NENSEN (9863739113)"],
       "formlink" : "https://docs.google.com/forms/d/e/1FAIpQLSeMZpxbIBzaG_zBioPnspGTAfYfyHoST0h8PppkgX7oEHp4Bw/viewform?usp=header"
     },
     {
@@ -141,16 +155,14 @@
       "title": "2D/3D Design",
       "description": "This event is all about showcasing your skills in 3d/2d designs.it includes project making,mechanical skills etc. electronic gadgets like computer and mobile shouldn't be involved in your project.its all about showcasing your project in 3D/2D design.",
       "imgSrc": "2d-design.jpg",
-      "team": "Solo/Team of 5",
+      "team": "Solo",
       "fees": "₹200",
       "prizes": [
         "1st Place: ₹5,000",
         "2nd Place: ₹3,000"
       ],
       "rules": [
-        "Maximum number of participants is 5 and minimum is 1.",
-        "No gadgets like computer, laptop, or mobile are involved in the project.",
-        "The project should either contain a 2D or 3D view."
+        "Will be updated soon"
       ],
       "location": "NIT Nagaland",
       "date": "7 March",
@@ -165,19 +177,23 @@
       "title": "Robo GP",
       "description": "Join us for an exciting robot competition where teams of students, engineers, and hobbyists design and program robots to tackle various tasks. Participants will showcase their technical skills, creativity, and problem-solving abilities, while gaining valuable experience in robotics and automation. This event celebrates innovation, teamwork, and the future of technology. Step outside your comfort zone—your passion can change the game!",
       "imgSrc": "RoboGp.jpg",
-      "team": "Solo/Team of 3",
+      "team": "Solo",
       "fees": "₹500",
       "prizes": [
-        "1st Place: ₹------",
-        "2nd Place: ₹------",
-        "3rd Place: ₹------"
+        "1st Place: ₹10000",
+        "2nd Place: ₹6000",
+        "3rd Place: ₹4000"
       ],
       "rules": [
-        "Participants should come and present a working model made by them."
+        "Teams must design and build their own remote-controlled (RC) car from scratch; no pre-made chassis or ready-made RC cars are allowed.",
+        "The car must be controlled via a mobile app or remote control; wired control is not permitted.",
+        "Cars will compete on a muddy track with obstacles, and the fastest time will determine the winner.",
+        "Only battery-powered cars are allowed; fuel engines are not permitted. The battery must be safely enclosed.",
+        "No interference with other cars is allowed; any intentional collisions or external assistance will result in disqualification."
       ],
       "location": "NIT Nagaland",
       "date": "7 March",
-      "contact": "Will be updated soon",
+      "contact": ["Saurav Sarwan : 8459811246", "Liang M"],
       "formlink" : "https://docs.google.com/forms/d/e/1FAIpQLSf6zzzcINjoKq9T-vnDfWrBD4Px-OqIC7Q5Fo-5RyOe46Qu0g/viewform?usp=header"
     },
     {
@@ -185,15 +201,22 @@
       "title": "Brain Snap",
       "description": "Put your knowledge to the ultimate test in Battle of the Brains, the college's most anticipated quiz competition! Whether you're a trivia master or just love learning, this event is for you. Gather your friends, form a team, and tackle questions across a variety of topics—general knowledge, pop culture, history, science, sports, and more! With challenging rounds and thrilling buzzer moments, this quiz will push your limits and bring out the best in your team. Are you ready to outsmart the competition and claim the title of quiz champions?",
       "imgSrc": "BrainSnap.jpg",
-      "team": "Team of 2",
+      "team": "Solo",
       "fees": "₹200",
       "prizes": [
-        "1st Place: ₹-----",
-        "2nd Place: ₹------",
-        "3rd Place: ₹------"
+        "1st Place: ₹5,000",
+        "2nd Place: ₹3,000",
+        "3rd Place: ₹2,000"
       ],
       "rules": [
-        "Will be updated soon"
+        "The event is open to all participants.",
+        "It consists of multiple rounds, including rapid-fire questions, riddles, and brain teasers.",
+        "Each participant/team must answer within the given time for each question.",
+        "Points will be awarded based on accuracy and speed of responses.",
+        "The lowest-scoring participants/teams will be eliminated in each round.",
+        "Use of mobile phones, calculators, or any external assistance is strictly prohibited.",
+        "In case of a tie, additional questions will be asked to determine the winner.",
+        "The decision of the judges will be final and binding."
       ],
       "location": "NIT Nagaland",
       "date": "8 March",
@@ -208,14 +231,18 @@
       "title": "Treasure Hunt",
       "description": "Get ready for an exhilarating adventure across the campus! In The Great College Treasure Hunt, teams will embark on a thrilling quest to solve clues, overcome challenges, and uncover hidden treasures. Test your wits, speed, and teamwork as you navigate through a series of riddles, puzzles, and tasks that will lead you to the final treasure. Whether you're in it for the competition or just the fun, this event promises excitement, mystery, and memories to last a lifetime. Gather your friends, form a team, and get ready to discover the secrets waiting to be unlocked. Only the sharpest and quickest will claim the grand prize!",
       "imgSrc": "TreasureHunt.jpg",
-      "team": "2 members in a team",
+      "team": "Solo",
       "fees": "₹200",
       "prizes": [
-        "1st Place: ₹-------",
-        "Runner-up: ₹--------"
+        "1st Place: ₹3000",
+        "Runner-up: ₹2000"
       ],
       "rules": [
-        "Will be updated soon"
+        "Solve each clue in order to find the next one.",
+        "Complete the hunt within the given time frame.",
+        "Using the internet or outside assistance is not allowed.",
+        "Stay within the designated area and do not tamper with clues.",
+        "Cheating or interfering with other teams will lead to disqualification."
       ],
       "location": "NIT Nagaland Campus",
       "date": "7 March",
@@ -228,20 +255,20 @@
     {
       "id" : 11,
         "title": "Stock Race",
-        "description": "Will be updated sonn",
+        "description": "Trade Smart, Win Big! A fast-paced stock market simulation where strategy and risk-taking lead to victory.",
         "imgSrc": "StockRace.jpg",
-        "team": "2 members",
+        "team": "Solo",
         "fees": "₹200",
         "prizes": [
-          "1st Place: ₹-------",
-          "Runner-up: ₹-------"
+          "1st Place: ₹3000",
+          "Runner-up: ₹2000"
         ],
         "rules": [
           "Will be updated soon"
         ],
         "location": "NIT Nagaland",
         "date": "8 March",
-        "contact": "Will be updated soon",
+        "contact": ["Chandradev Yadav : 6392815183", "Liang M"],
         "formlink" : "https://docs.google.com/forms/d/e/1FAIpQLSc1VUz3yJdq-X4a3EGW9cvWsSVsgSEFtTVA2PTCAejXzvqrrg/viewform?usp=header"
     },
     {
@@ -250,16 +277,20 @@
         "description": "Unleash your inner innovator and join us at the ultimate Electrical Circuit Competition, where creativity sparks and ingenuity shines!",
         "imgSrc": "CircuitX.jpg",
         "team": "Solo",
-        "fees": "₹100",
+        "fees": "₹200",
         "prizes": [
-          "1st Place: ₹-----",
-          "Runner-up: ₹------"
+          "1st Place: ₹3000",
+          "Runner-up: ₹2000"
         ],
         "rules": [
-          "The event consists of two rounds.",
-          "The top 7 participants from the 1st round will be selected for the second round.",
-          "First round consists of problems and solving them under given time.",
-          "Second round is simulation round, first correctly solved persons will be the winners and runners of the event."
+          "The competition consists of 2 rounds: a written round and a simulation round.",
+          "The first round is a pen-and-paper test with questions on basic network analysis, analog circuits, and digital circuits.",
+          "The second round requires participants to simulate circuits using any compatible software of their choice.",
+          "Participants must bring their own laptops with the necessary simulation software pre-installed.",
+          "Scoring will be based on accuracy, efficiency, and correctness of the solutions in both rounds.",
+          "In case of a tie, additional circuit-related challenges may be given.",
+          "Any form of malpractice or violation of rules will result in immediate disqualification.",
+          "Participants from outside NIT Nagaland must register with an entry fee of ₹200."
         ],
         "location": "NIT Nagaland",
         "date": "7 March",
@@ -277,15 +308,15 @@
         "team": "Solo",
         "fees": "₹200",
         "prizes": [
-          "1st Place: ₹-----",
-          "Runner-up: ₹------"
+          "1st Place: ₹4000",
+          "Runner-up: ₹3000"
         ],
         "rules": [
-          "Eligibility: Open to all currently enrolled college students.",
-          "Original Ideas: Participants must pitch original business concepts not previously presented elsewhere.",
-          "Pitch Time: Each team has 10 minutes to present, followed by 3 minutes for Q&A.",
-          "Visual Aids: Participants must provide their own visual aids and equipment.",
-          "Submission: Pitch materials must be submitted 48 hours before the event."
+          "A list of companies will be provided, from which participants must select one to prepare and present a pitch along with a PowerPoint presentation.",
+          "Participants must present unique business concepts that have not been previously pitched.",
+          "Each team will have 10 minutes for their presentation, followed by a 3-minute Q&A session.",
+          "Participants are responsible for bringing their own visual aids and necessary equipment.",
+          "All pitch materials must be submitted at least 48 hours before the event."
         ],
         "location": "NIT Nagaland",
         "date": "7 March",
