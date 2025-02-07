@@ -177,6 +177,10 @@ header {
     background-image: url('../Images/raza.jpg');
 }
 
+.surya-box {
+    background-image: url('../Images/surya.jpg');
+}
+
 
 .card:hover .img-bx {
     top: -35px;
