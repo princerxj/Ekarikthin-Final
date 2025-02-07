@@ -21,7 +21,8 @@
       "location": "Online",
       "date": "6 March",
       "contact": ["Arihant Jain : 96643 49680",
-        "Chemhokyu T Sangtam : 6009940071"]
+        "Chemhokyu T Sangtam : 6009940071"],
+      "formlink" : ""
     },
     {
       "id" : 2,
@@ -49,7 +50,8 @@
       "location": "Nit nagaland VC hall",
       "date": "6 March",
       "contact": ["Arihant Jain : 96643 49680",
-        "Chemhokyu T Sangtam : 6009940071"]
+        "Chemhokyu T Sangtam : 6009940071"],
+      "formlink" : ""
     },
     {
       "id" : 3,
@@ -68,7 +70,8 @@
       ],
       "location": "NIT Nagaland",
       "date": "6 March",
-      "contact": "Will be updated soon"
+      "contact": "Will be updated soon",
+      "formlink" : ""
     },
     {
       "id" : 4,
@@ -86,7 +89,8 @@
       ],
       "location": "NIT Nagaland",
       "date": "6 March",
-      "contact": "Will be updated soon"
+      "contact": "Will be updated soon",
+      "formlink" : ""
     },
     {
       "id" : 5,
@@ -104,7 +108,8 @@
       ],
       "location": "NIT Nagaland",
       "date": "6 March",
-      "contact": "Will be updated soon"
+      "contact": "Will be updated soon",
+      "formlink" : "https://docs.google.com/forms/d/e/1FAIpQLSe-Dt_-Id36bd43RpdznP0u_O5AwiDANXImlUIy-huYHOqjSQ/viewform?usp=header"
     },
     {
       "id" : 6,
@@ -123,7 +128,8 @@
       ],
       "location": "NIT Nagaland",
       "date": "8 March",
-      "contact": "Will be updated soon"
+      "contact": "Will be updated soon",
+      "formlink" : ""
     },
     {
       "id" : 7,
@@ -146,7 +152,8 @@
       "contact": [
         "Yojitha-7731069359",
         "Moiaok- 87320 15892"
-      ]
+      ],
+      "formlink" : ""
     },
     {
       "id" : 8,
@@ -165,7 +172,8 @@
       ],
       "location": "NIT Nagaland",
       "date": "7 March",
-      "contact": "Will be updated soon"
+      "contact": "Will be updated soon",
+      "formlink" : ""
     },
     {
       "id" : 9,
@@ -187,7 +195,8 @@
       "contact": [
         "Sawan Dalal : 8901806472",
         "Yongdener Jamir :9863096583"
-      ]
+      ],
+      "formlink" : ""
     },
     {
       "id" : 10,
@@ -208,7 +217,8 @@
       "contact": [
         "Sawan Dalal : 8901806472",
         "Yongdener Jamir :9863096583"
-      ]
+      ],
+      "formlink" : ""
     },
     {
       "id" : 11,
@@ -226,7 +236,8 @@
         ],
         "location": "NIT Nagaland",
         "date": "8 March",
-        "contact": "Will be updated soon"
+        "contact": "Will be updated soon",
+        "formlink" : ""
     },
     {
       "id" : 12,
@@ -250,7 +261,8 @@
         "contact": [
           "Raghavendra - 9989893127",
           "Likivi Zhimo - 9366713997"
-        ]
+        ],
+        "formlink" : ""
     },
     {
       "id" : 13,
@@ -275,6 +287,7 @@
         "contact": [
           "NENSEN (9863739113)",
           "PRADYUMN (7390987633)"
-        ]
+        ],
+        "formlink" : ""
     }
 ]  

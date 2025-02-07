@@ -39,6 +39,7 @@ function openPopup(eventId) {
       const popupDate = document.getElementById("popup-date");
       const popupContact = document.getElementById("popup-contact");
       const popupImg = document.getElementById("popup-img");
+      const btn = document.getElementById("Register-btn");
 
       popupTitle.textContent = event.title;
       popupDescription.textContent = event.description;
@@ -53,7 +54,9 @@ function openPopup(eventId) {
       popupDate.textContent = event.date;
       popupContact.textContent = event.contact;
       popupImg.src = `Images/${event.imgSrc}`;
-      
+      btn.addEventListener("click", () => {
+        window.open(`${event.formlink}`);
+      });
       popupOverlay.style.display = "flex";
     })
     .catch(error => console.log('Error fetching event data:', error));
