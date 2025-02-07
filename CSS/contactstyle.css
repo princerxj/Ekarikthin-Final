@@ -181,6 +181,10 @@ header {
     background-image: url('../Images/surya.jpg');
 }
 
+.yeselo-img {
+    background-image: url('../Images/Yeselo.jpg');
+}
+
 
 .card:hover .img-bx {
     top: -35px;
